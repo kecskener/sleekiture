@@ -1,0 +1,103 @@
+@import "../../assets/variables.scss";
+
+.buy{
+    width: 90em;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    &__heading{
+        text-transform: uppercase;
+        padding-top: 5%;
+        font-size: 2.5em;
+        height: 5em;
+    }
+    &__fade{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 15em;
+        background-image: linear-gradient(180deg, rgba(2,0,36,0) 0%, rgba(232,217,212,1) 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    &__cards{
+        width: 100%;
+        height: 50em;
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        &--card{
+            width: 22%;
+            height: 50%;
+            background-color:white;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            &::after{
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                content: "";
+                width: 100%;
+                height: 0%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: $green;
+                color: white;
+                font-weight: bold;
+                letter-spacing: .25em;
+                transition: all cubic-bezier(.22,.68,0,1.71) .3s;
+            }
+            &-picture{
+                width: 85%;
+                height: 85%;
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                filter: brightness(.75);
+                transition: all ease-in-out .3s;
+            }
+            &:hover{
+                cursor: pointer;
+                .buy__cards--card-picture{
+                    filter: brightness(.6);
+                }
+                &::after{
+                    height: 15%;
+                    content: "BUY!";
+                }
+            }
+        }
+    }
+}
+
+.second{
+    margin-top: 5%;
+}
+
+#big{
+    color: $green;
+}
+
+#first{
+    background-image: url(../../assets/images/furniture.jpg);
+}
+
+#second{
+    background-image: url(../../assets/images/furniture2.jpg);
+}
+
+#third{
+    background-image: url(../../assets/images/furniture3.jpg);
+}
+
+#fourth{
+    background-image: url(../../assets/images/furniture4.jpg);
+}

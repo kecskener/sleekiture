@@ -1,0 +1,53 @@
+@import "../../assets/variables.scss";
+
+.reseller {
+    width: 90em;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+
+    &__left {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        &--heading {
+            text-transform: uppercase;
+            font-size: 3em;
+            padding-bottom: 2%;
+        }
+
+        &--sub {
+            font-weight: bold;
+            text-transform: lowercase;
+            width: 75%;
+            letter-spacing: .075em;
+            padding-bottom: 2%;
+        }
+
+        &--button {
+            width: 30%;
+            height: 5%;
+            border: none;
+            border-radius: 0;
+            text-transform: uppercase;
+            font-weight: bold;
+            background-color: $green;
+            color: white;
+            cursor: pointer;
+            transition: all ease-in-out .2s;
+            &:hover {
+                background-color: transparent;
+                border: .5em solid $black;
+                color: $black;
+            }
+        }
+    }
+    &__right{
+        width: 50%;
+        background-image: url(../../assets/svg/figure.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
