@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2025db9.css",
+    "main.js": "/static/js/main.2fd9f3e9.js",
+    "static/media/furniture4.jpg": "/static/media/furniture4.ca5e2410209abb2624ca.jpg",
+    "static/media/furniture2.jpg": "/static/media/furniture2.f65cdf4301535f965a3d.jpg",
+    "static/media/furniture.jpg": "/static/media/furniture.1ba15f40a9b1ab319df0.jpg",
+    "static/media/furniture3.jpg": "/static/media/furniture3.4845baf68c9848b1ab24.jpg",
+    "static/media/furniture.svg": "/static/media/furniture.24b168229b383fcbecfe.svg",
+    "static/media/figure.svg": "/static/media/figure.3387a0649af73163f546.svg",
+    "static/media/office.svg": "/static/media/office.957df445bd176f30d1cb.svg",
+    "static/media/envelop.svg": "/static/media/envelop.0a2e46d778ae92a0a797.svg",
+    "static/media/blob.svg": "/static/media/blob.bc6f04b12ca17a7c0fcd.svg",
+    "static/media/blob2.svg": "/static/media/blob2.aba283e7f0247bb8f3f0.svg",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.36bbe4a05a73a5620945.svg",
+    "static/media/hero.svg": "/static/media/hero.5ec0bb1a561160e939f5.svg",
+    "main.a2025db9.css.map": "/static/css/main.a2025db9.css.map",
+    "main.2fd9f3e9.js.map": "/static/js/main.2fd9f3e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2025db9.css",
+    "static/js/main.2fd9f3e9.js"
+  ]
+}
