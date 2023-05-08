@@ -11,6 +11,10 @@ Welcome to Sleekiture, a furniture reselling website built with React and React-
 - [Contributing](https://chat.openai.com/#contributing)
 - [License](https://chat.openai.com/#license)
 
+**Link to the live website**
+
+[kecskener.github.io/sleekiture]
+
 **Features**
 
 Sleekiture comes packed with a number of features to make furniture buying and selling easy and enjoyable. Some of the key features of our website include:
