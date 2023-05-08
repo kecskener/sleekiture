@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/sleekiture/static/css/main.2fd2b0f6.css",
+    "main.css": "/sleekiture/static/css/main.59eefc74.css",
     "main.js": "/sleekiture/static/js/main.2fd9f3e9.js",
-    "static/media/furniture4.jpg": "/sleekiture/static/media/furniture4.ca5e2410209abb2624ca.jpg",
-    "static/media/furniture2.jpg": "/sleekiture/static/media/furniture2.f65cdf4301535f965a3d.jpg",
-    "static/media/furniture.jpg": "/sleekiture/static/media/furniture.1ba15f40a9b1ab319df0.jpg",
-    "static/media/furniture3.jpg": "/sleekiture/static/media/furniture3.4845baf68c9848b1ab24.jpg",
+    "static/media/furniture.jpg": "/sleekiture/static/media/furniture.90e54867db349f1b752c.jpg",
+    "static/media/furniture2.jpg": "/sleekiture/static/media/furniture2.bade207dd52b183ac43c.jpg",
+    "static/media/furniture4.jpg": "/sleekiture/static/media/furniture4.d1036338bae98e417a7f.jpg",
+    "static/media/furniture3.jpg": "/sleekiture/static/media/furniture3.9ebd5c3478c37e0b1f63.jpg",
     "static/media/furniture.svg": "/sleekiture/static/media/furniture.24b168229b383fcbecfe.svg",
     "static/media/figure.svg": "/sleekiture/static/media/figure.3387a0649af73163f546.svg",
     "static/media/office.svg": "/sleekiture/static/media/office.957df445bd176f30d1cb.svg",
@@ -15,11 +15,11 @@
     "static/media/blob2.svg": "/sleekiture/static/media/blob2.aba283e7f0247bb8f3f0.svg",
     "static/media/phone.svg": "/sleekiture/static/media/phone.36bbe4a05a73a5620945.svg",
     "static/media/hero.svg": "/sleekiture/static/media/hero.5ec0bb1a561160e939f5.svg",
-    "main.2fd2b0f6.css.map": "/sleekiture/static/css/main.2fd2b0f6.css.map",
+    "main.59eefc74.css.map": "/sleekiture/static/css/main.59eefc74.css.map",
     "main.2fd9f3e9.js.map": "/sleekiture/static/js/main.2fd9f3e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fd2b0f6.css",
+    "static/css/main.59eefc74.css",
     "static/js/main.2fd9f3e9.js"
   ]
 }
