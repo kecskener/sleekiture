@@ -13,7 +13,7 @@ Welcome to Sleekiture, a furniture reselling website built with React and React-
 
 **Link to the live website**
 
-[kecskener.github.io/sleekiture]
+[Sleekiture](https://kecskener.github.io/sleekiture)
 
 **Features**
 
